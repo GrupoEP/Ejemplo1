@@ -9,7 +9,7 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <title>Prueba de arquitectura Web</title>
         <title>Grupo de Eva y Patricio</title>
-        <title>Grupo de Eva</title>
+        
     </head>
     <body>
         <?php
